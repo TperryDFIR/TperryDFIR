@@ -51,6 +51,18 @@ investigations involving:
 5. Corporate Endpoint Forensic Investigation
 6. Mobile Device Forensics (Planned)
 
+### [Windows NTFS Forensic Investigation](https://github.com/TperryDFIR/Windows-NTFS-Forensic-Investigation)
+
+A documented Windows 10 forensic examination covering EWF evidence
+integrity, GPT partition analysis, NTFS metadata, artifact recovery,
+Windows Registry correlation, and independent verification.
+
+**Tools:** Kali Linux, The Sleuth Kit, EWF utilities, RegRipper,
+and FTK Imager.
+
+**Documentation:** Five investigation reports with six supporting
+forensic screenshots.
+
 ## 🎯 Professional Focus
 
 Digital Forensic Examiner | Mobile Forensic Examiner |
