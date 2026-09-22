@@ -41,14 +41,21 @@ POA&M, Security Documentation
 
 ## 📂 Featured Forensic Investigations
 
-This portfolio documents hands-on digital forensic investigations involving:
+My GitHub portfolio showcases documented digital forensic examinations involving evidence integrity, Windows file systems, mobile devices, application artifacts, and investigative reporting.
 
-1. Digital Evidence Acquisition and Integrity Verification
-2. Windows Registry and Malware Persistence Analysis
-3. [NTFS File System and Artifact Recovery](https://github.com/TperryDFIR/Windows-NTFS-Forensic-Investigation)
-4. Email Forensics and Communication Analysis
-5. Corporate Endpoint Forensic Investigation
-6. [Mobile Device Forensic Investigations | iOS, Android & IoT](https://github.com/TperryDFIR/Mobile-Device-Forensic-Investigations)
+### Published Forensic Case Studies
+
+| Investigation                         | Focus                                                                                                  | Repository                                                                                |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| Windows NTFS Forensic Investigation   | Evidence integrity, GPT partition analysis, NTFS metadata, artifact recovery, and Registry correlation | [View Investigation](https://github.com/TperryDFIR/Windows-NTFS-Forensic-Investigation)   |
+| Mobile Device Forensic Investigations | iOS, Android, IoT artifacts, SQLite databases, network records, and timestamp analysis                 | [View Investigation](https://github.com/TperryDFIR/Mobile-Device-Forensic-Investigations) |
+
+### Additional Forensic Investigation Areas
+
+* Digital Evidence Acquisition and Integrity Verification
+* Windows Registry and Malware Persistence Analysis
+* Email Forensics and Communication Analysis
+* Corporate Endpoint Forensic Investigation
 
 ### 📱 Mobile Device Forensic Investigations
 
