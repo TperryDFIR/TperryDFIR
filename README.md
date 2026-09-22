@@ -2,7 +2,7 @@
 ### Digital Forensics & Incident Response | Cybersecurity Professional
 
 Welcome to my GitHub portfolio! I am a cybersecurity
-professional and PhD student specializing in digital
+professional and PhD student focusing on digital
 forensics, cybersecurity investigations, and incident response.
 
 My work focuses on forensic evidence acquisition,
@@ -35,20 +35,20 @@ POA&M, Security Documentation
 
 ## 🎓 Education & Certifications
 
-**Doctor of Philosophy (PhD), Information Technology**
-*Emphasis in Digital Forensics*
+**Doctor of Philosophy (PhD), Information Technology**  
+*Emphasis in Digital Forensics*  
 University of the Cumberlands | In Progress
 
-**Master of Science, Digital Forensics and Cyber Investigations**
+**Master of Science, Digital Forensics and Cyber Investigations**  
 University of Maryland Global Campus
 
-**Bachelor of Science, Cybersecurity**
+**Bachelor of Science, Cybersecurity**  
 University of Maryland Global Campus
 
 ### Professional Certifications
 
-* CompTIA Cybersecurity Analyst (CySA+)
-* CompTIA Security+
+- CompTIA Cybersecurity Analyst (CySA+)
+- CompTIA Security+
 
 
 ## 📂 Featured Forensic Investigations
