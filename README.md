@@ -45,10 +45,10 @@ My GitHub portfolio showcases documented digital forensic examinations involving
 
 ### Published Forensic Case Studies
 
-| Investigation                         | Focus                                                                                                  | Repository                                                                                |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| Windows NTFS Forensic Investigation   | Evidence integrity, GPT partition analysis, NTFS metadata, artifact recovery, and Registry correlation | [View Investigation](https://github.com/TperryDFIR/Windows-NTFS-Forensic-Investigation)   |
-| Mobile Device Forensic Investigations | iOS, Android, IoT artifacts, SQLite databases, network records, and timestamp analysis                 | [View Investigation](https://github.com/TperryDFIR/Mobile-Device-Forensic-Investigations) |
+| Investigation | Focus | Repository |
+|---|---|---|
+| Windows NTFS Forensic Investigation | Evidence integrity, GPT partition analysis, NTFS metadata, artifact recovery, and Registry correlation | [View Investigation](https://github.com/TperryDFIR/Windows-NTFS-Forensic-Investigation) |
+| Mobile Device Forensic Investigations | iOS, Android, IoT artifacts, SQLite databases, network records, and timestamp analysis | [View Investigation](https://github.com/TperryDFIR/Mobile-Device-Forensic-Investigations) |
 
 ### Additional Forensic Investigation Areas
 
