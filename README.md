@@ -41,15 +41,26 @@ POA&M, Security Documentation
 
 ## 📂 Featured Forensic Investigations
 
-This portfolio documents hands-on digital forensic
-investigations involving:
+This portfolio documents hands-on digital forensic investigations involving:
 
 1. Digital Evidence Acquisition and Integrity Verification
 2. Windows Registry and Malware Persistence Analysis
-3. NTFS File System and Artifact Recovery
+3. [NTFS File System and Artifact Recovery](https://github.com/TperryDFIR/Windows-NTFS-Forensic-Investigation)
 4. Email Forensics and Communication Analysis
 5. Corporate Endpoint Forensic Investigation
-6. Mobile Device Forensics (Planned)
+6. [Mobile Device Forensic Investigations | iOS, Android & IoT](https://github.com/TperryDFIR/Mobile-Device-Forensic-Investigations)
+
+### 📱 Mobile Device Forensic Investigations
+
+Completed forensic examinations of iPhone X and Samsung Galaxy S8 evidence using Cellebrite Reader and DCode.
+
+The investigations document application artifacts, SQLite databases, wireless-network records, IoT-related evidence, timestamp analysis, and forensic reporting.
+
+**Featured Case Studies:**
+
+* [iOS Forensic Investigation](https://github.com/TperryDFIR/Mobile-Device-Forensic-Investigations/tree/main/01-iOS-Forensic-Investigation)
+* [Android and IoT Forensic Investigation](https://github.com/TperryDFIR/Mobile-Device-Forensic-Investigations/tree/main/02-Android-IoT-Forensic-Investigation)
+
 
 ### [Windows NTFS Forensic Investigation](https://github.com/TperryDFIR/Windows-NTFS-Forensic-Investigation)
 
