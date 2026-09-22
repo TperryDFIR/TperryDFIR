@@ -38,6 +38,7 @@ POA&M, Security Documentation
 - PhD Student, Information Technology with an emphasis
   in Digital Forensics, University of the Cumberlands
 - CompTIA Security+
+- CompTIA CySA+
 
 ## 📂 Featured Forensic Investigations
 
