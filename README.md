@@ -35,10 +35,21 @@ POA&M, Security Documentation
 
 ## 🎓 Education & Certifications
 
-- PhD Student, Information Technology with an emphasis
-  in Digital Forensics, University of the Cumberlands
-- CompTIA Security+
-- CompTIA CySA+
+**Doctor of Philosophy (PhD), Information Technology**
+*Emphasis in Digital Forensics*
+University of the Cumberlands | In Progress
+
+**Master of Science, Digital Forensics and Cyber Investigations**
+University of Maryland Global Campus
+
+**Bachelor of Science, Cybersecurity**
+University of Maryland Global Campus
+
+### Professional Certifications
+
+* CompTIA Cybersecurity Analyst (CySA+)
+* CompTIA Security+
+
 
 ## 📂 Featured Forensic Investigations
 
